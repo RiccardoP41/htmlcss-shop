@@ -83,7 +83,7 @@ body {
 }
 
 .img:hover{
-    border-color: gold;
+    border-color: #FFEBCD;
 }
 
 .img:hover .heart {
@@ -95,4 +95,6 @@ body {
     bottom: 0;
     left: 150px;
     display: none;
+    color: red;
+    font-size: 30px;
 }
