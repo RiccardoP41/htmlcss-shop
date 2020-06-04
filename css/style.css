@@ -1,5 +1,38 @@
-*{
+* {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+}
+
+.row {
+    height: 402px;
+    width: 910px;
+}
+
+.second {
+    position: relative;
+    top: 20px;
+}
+.img {
+    display: inline-block;
+    height: 400px;
+    width: 300px;
+    background-color: azure;
+    border: 1px solid black;
+    position: relative;
+}
+
+.sconto{
+    position: absolute;
+    top: 0;
+    right: 0;
+
+}
+
+.trenta {
+    background-color: green;
+}
+
+.cinque {
+    background-color: red;
 }
